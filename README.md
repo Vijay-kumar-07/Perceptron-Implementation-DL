@@ -10,3 +10,7 @@ DL Perceptron Implementation
 
 ### To activate an environment
 ``` conda activate ./env ``` 
+
+## Make directory command in Git Bash:
+```` mkdir Research_env ```
+
