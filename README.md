@@ -1,6 +1,12 @@
 # Perceptron-Implementation-DL
 DL Perceptron Implementation
 
+
+## OR and AND linearly separable
+## XOR non linearly separable.
+# Drawback of Perceptron - Only suitable for linear datasets.
+## For non-linear datasets we have to use more no. of hidden layers.
+
 # Commands using Bash -
 ### To create any empty file:
 ```` touch filename ````
